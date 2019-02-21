@@ -5,10 +5,12 @@
 * 时间： 2019.01.19
 * 地点： ThoughtWorks武汉办公室
 * 培训内容：
+
      First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
+
 * 收获及感想:
     虽然只参加了半天的培训，但是仍然收获良多，也很开心认识了一些即将入职的小伙伴。自我介绍部分让我初步认识了大家，大家性格迥异来自不同的地方，但是看上去都很好相处～期待与他们在日后的工作中成为好的伙伴。文化部分的讲解，结合我自己实习的经历，加深了我对ThoughtWorks的认识。感受最深的就是这里的确是一个环境很开放，互帮互助，会帮助彼此成长的地方。接下来Buddy雨晴的TW Journy分享我觉得很真诚很受用，希望自己也能够不急躁，及时反思，一步步地去进步、经历在ThoughtWorks的各个阶段。
 
